@@ -41,6 +41,7 @@ This document provides a list of commonly used Tableau file extensions along wit
 | `.tbm`    | Tableau Bookmark                 | Used to save individual worksheets (charts, dashboards, etc.) for reuse across workbooks. |
 | `.tfl`    | Tableau Flow File                | Contains a Tableau Prep flow file (introduced in Tableau Prep), showing how data is cleaned, transformed, and prepared. |
 | `.tflx`   | Tableau Packaged Flow File       | A packaged version of `.tfl`, which includes data files and resources needed for the Prep flow. |
+![image](https://github.com/user-attachments/assets/1d2b9ef6-52b3-492a-bff9-c40a5046c3e7)
 
 ---
 
