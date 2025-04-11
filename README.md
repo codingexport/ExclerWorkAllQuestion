@@ -51,6 +51,48 @@ This document provides a list of commonly used Tableau file extensions along wit
 - XML-based files like `.twb` and `.tds` can be opened with a text editor for debugging or version control purposes.
 
 ---
+# 📊 Tableau - Data Source Overview
+
+This README provides a summary of the **Data Source** section in Tableau, based on the attached diagram.
+
+## 🔍 Overview
+- The **Data Source** section is the **first screen** that appears after connecting Tableau to a data source.
+- Users must **drag and drop tables** into the logical layer to begin analyzing the data.
+
+---
+
+## 🛠️ Operations Available:
+1. **Rename**
+2. **Copy Values**
+3. **Hide/Unhide**
+4. **Aliases**
+5. **Create Calculated Field**
+6. **Create Groups**
+7. **Create Bins**
+8. **Split**
+9. **Custom Split**
+10. **Pivot**
+11. **Describe**
+
+---
+
+## 📁 Key Components:
+- **Metadata**: Shows field types, physical table names, and more.
+- **Data Preview Pane**: Displays a sample of data rows from the source table.
+
+---
+
+## 📌 Notes:
+- You can switch between **Live** and **Extract** connections.
+- You can add filters using the **Filters panel**.
+
+---
+
+## 📷 Image Reference:
+Included image shows a sample data source setup using the "Orders (Sample - Superstore)" dataset.
+
+![image](https://github.com/user-attachments/assets/2b8d203c-ef7e-4db4-a56a-aafdb163609f)
+
 
 ## 📚 Additional Resources
 
