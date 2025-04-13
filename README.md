@@ -94,6 +94,9 @@ Included image shows a sample data source setup using the "Orders (Sample - Supe
 
 ![image](https://github.com/user-attachments/assets/2b8d203c-ef7e-4db4-a56a-aafdb163609f)
 
+## Filter
+![image](https://github.com/user-attachments/assets/fe3b6e8f-a9b1-4316-bde4-a75136e5b614)
+![image](https://github.com/user-attachments/assets/ab6bd56f-dffe-46b7-9e51-d72b4fd03224)
 
 ## 📚 Additional Resources
 
