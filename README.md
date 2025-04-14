@@ -230,6 +230,51 @@ This document provides a concise explanation of various important Tableau featur
 > **Pro Tip for Interviews**: 
 > Be ready to explain **when and why** you’d use one filter or calculation over another. Practice with use cases and sample dashboards!
 
+
+---
+## 📊 Aggregation in Tableau
+
+**Aggregation** is the process of combining multiple values into a single value — usually to summarize or analyze large datasets.
+
+---
+
+### ✅ Common Aggregation Functions
+
+| Function     | Meaning                              | Example                        |
+|--------------|---------------------------------------|--------------------------------|
+| `SUM()`      | Total of values                      | Total Sales                    |
+| `AVG()`      | Average of values                    | Average Profit per Product     |
+| `MIN()`      | Minimum value                        | Lowest Order Quantity          |
+| `MAX()`      | Maximum value                        | Highest Discount Given         |
+| `COUNT()`    | Number of values                     | Total Customers                |
+| `COUNTD()`   | Count of distinct values             | Unique Regions                 |
+
+---
+
+### 🎯 Aggregation in Tableau
+
+When you drag a **measure** like `Sales` into the view in Tableau, it is **automatically aggregated**, typically using `SUM()` as the default.
+
+#### Example:
+- **Dimension**: `Region`
+- **Measure**: `Sales`
+- **Aggregation**: `SUM(Sales)` → Total sales for each region
+
+---
+
+### 💡 Interview Tip
+
+> **Q:** What happens when you drag a measure like Profit into the view?  
+> **A:** Tableau aggregates it using the default aggregation (usually SUM), so it displays `SUM(Profit)`. You can change it to other aggregations like `AVG(Profit)` or `MAX(Profit)` based on the requirement.
+
+---
+
+### 🔍 Why Aggregation is Important
+
+- Simplifies large datasets for better analysis
+- Enables comparisons, rankings, and KPIs
+- Essential for calculations, dashboards, and visuals in Tableau
+
 ---
 
 
